@@ -1,0 +1,1 @@
+"""SPM Task Manager package."""
