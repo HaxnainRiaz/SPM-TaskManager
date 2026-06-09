@@ -21,7 +21,7 @@ The application demonstrates a collaborative GitHub workflow for planning, devel
 
 ## Current Sprint Focus
 
-Prepare release testing tasks for version `v1.0.0`.
+Prepare release testing and dashboard documentation tasks for version `v1.0.0`.
 
 ## Team Members
 
