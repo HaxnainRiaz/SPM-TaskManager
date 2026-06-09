@@ -21,7 +21,7 @@ The application demonstrates a collaborative GitHub workflow for planning, devel
 
 ## Current Sprint Focus
 
-Prepare a stable task manager foundation for version `v1.0.0`.
+Prepare dashboard documentation tasks for version `v1.0.0`.
 
 ## Team Members
 
